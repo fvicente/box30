@@ -1,0 +1,68 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ALARM	C:\Box30\box30.asm	36;"	q	line:36
+ALARMCNT	C:\Box30\box30.asm	37;"	q	line:37
+BITPAT	C:\Box30\box30.asm	109;"	l	line:109
+CNTMSEC	C:\Box30\box30.asm	35;"	q	line:35
+CONTINUE	C:\Box30\box30.asm	291;"	l	line:291
+CONTINUER	C:\Box30\box30.asm	336;"	l	line:336
+CONTOFF	C:\Box30\box30.asm	290;"	l	line:290
+CONTOFFR	C:\Box30\box30.asm	335;"	l	line:335
+CONTON	C:\Box30\box30.asm	288;"	l	line:288
+CONTONR	C:\Box30\box30.asm	333;"	l	line:333
+CURDIGIT	C:\Box30\box30.asm	40;"	q	line:40
+CURSTATUS	C:\Box30\box30.asm	26;"	q	line:26
+DIGCTR	C:\Box30\box30.asm	27;"	q	line:27
+DIGIT	C:\Box30\box30.asm	28;"	q	line:28
+DLY20	C:\Box30\box30.asm	387;"	l	line:387
+DRAWDIGIT	C:\Box30\box30.asm	316;"	l	line:316
+DRAWROUND	C:\Box30\box30.asm	345;"	l	line:345
+EVERYSEC	C:\Box30\box30.asm	254;"	l	line:254
+FUDGE	C:\Box30\box30.asm	30;"	q	line:30
+GETNEXTDIG	C:\Box30\box30.asm	304;"	l	line:304
+INCRROUND	C:\Box30\box30.asm	267;"	l	line:267
+INIT	C:\Box30\box30.asm	117;"	l	line:117
+INTCNT	C:\Box30\box30.asm	29;"	q	line:29
+INTERRUPT	C:\Box30\box30.asm	192;"	l	line:192
+LOOPBIT	C:\Box30\box30.asm	284;"	l	line:284
+LOOPBITR	C:\Box30\box30.asm	329;"	l	line:329
+MAIN	C:\Box30\box30.asm	361;"	l	line:361
+MAINLOOP	C:\Box30\box30.asm	362;"	l	line:362
+MICRO4	C:\Box30\box30.asm	403;"	l	line:403
+MSECLOOP	C:\Box30\box30.asm	389;"	l	line:389
+NEXTSTATUS	C:\Box30\box30.asm	143;"	l	line:143
+NMSEC	C:\Box30\box30.asm	388;"	l	line:388
+ONEMSEC	C:\Box30\box30.asm	401;"	l	line:401
+PLAYING	C:\Box30\box30.asm	158;"	l	line:158
+PRO	C:\Box30\box30.asm	169;"	l	line:169
+RESTORE	C:\Box30\box30.asm	213;"	l	line:213
+RINGBELL	C:\Box30\box30.asm	179;"	l	line:179
+ROUND	C:\Box30\box30.asm	23;"	q	line:23
+ROUND10	C:\Box30\box30.asm	24;"	q	line:24
+RUNFLG	C:\Box30\box30.asm	31;"	q	line:31
+SEC	C:\Box30\box30.asm	25;"	q	line:25
+SECNT	C:\Box30\box30.asm	34;"	q	line:34
+SHOWDIGIT	C:\Box30\box30.asm	281;"	l	line:281
+SHOWDIGITR	C:\Box30\box30.asm	326;"	l	line:326
+SKIPRESET	C:\Box30\box30.asm	203;"	l	line:203
+STARTCNT	C:\Box30\box30.asm	372;"	l	line:372
+STATUS_TEMP	C:\Box30\box30.asm	33;"	q	line:33
+TABLE	C:\Box30\box30.asm	74;"	l	line:74
+TABLER	C:\Box30\box30.asm	89;"	l	line:89
+TIMER0	C:\Box30\box30.asm	41;"	q	line:41
+TIMER1	C:\Box30\box30.asm	42;"	q	line:42
+TIMER2	C:\Box30\box30.asm	43;"	q	line:43
+TIMER3	C:\Box30\box30.asm	44;"	q	line:44
+TMPCNT	C:\Box30\box30.asm	39;"	q	line:39
+TMPCNTR	C:\Box30\box30.asm	46;"	q	line:46
+TMPVAR	C:\Box30\box30.asm	38;"	q	line:38
+TMPVARR	C:\Box30\box30.asm	45;"	q	line:45
+UPDATEDIS	C:\Box30\box30.asm	220;"	l	line:220
+WAIT	C:\Box30\box30.asm	182;"	l	line:182
+W_TEMP	C:\Box30\box30.asm	32;"	q	line:32
